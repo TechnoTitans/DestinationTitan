@@ -1,0 +1,4 @@
+#Sat Mar 02 01:50:44 EST 2019
+base.0=/home/berk/Code/DestinationTitan/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
